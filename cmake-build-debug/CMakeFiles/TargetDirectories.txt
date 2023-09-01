@@ -1,0 +1,3 @@
+/Users/vmetreveli/CLionProjects/threads/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/vmetreveli/CLionProjects/threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vmetreveli/CLionProjects/threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
